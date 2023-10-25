@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   My major is <b>Computer Engineering</b>. I'm studying <b>web backend</b>.
  -->
  <h3 align=center>⚒️ Skills ⚒️</h3>
- <p align=center><img src="https://img.shields.io/badge/Ruby-CC342D?logo=Ruby"><a href="https://velog.io/@almostdone"><img src="https://img.shields.io/badge/Tech blog-20C997?style=flat-square&logo=Velog&&logoColor=white"/></a></p>
+ <p align=center><img src="https://img.shields.io/badge/Ruby-CC342D?logo=Ruby"><a href="https://velog.io/@almostdone"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&&logoColor=white"/></a></p>
   
 
 |[![Seohee's github stats](https://github-readme-stats.vercel.app/api?username=seohee-P&theme=vue&rank_icon=github&hide_border=True)](https://github.com/seohee-P) | [![Solved.ac프로필](http://mazassumnida.wtf/api/pastel/generate_badge?boj=almostdone)](https://solved.ac/almostdone)|
