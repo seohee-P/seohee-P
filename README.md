@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   <h3>👋 Hi! I'm SeoHee 👋</h3>
   My major is <b>Computer Engineering</b>. I'm studying <b>web backend</b>.
  -->
-  <h3> ⚙️ Skills ⚙️ </h3>
+  <h3>⚙️ Skills ⚙️</h3>
   
 </div>
 
