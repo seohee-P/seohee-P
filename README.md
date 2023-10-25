@@ -27,7 +27,7 @@ Here are some ideas to get you started:
  <p align=center><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src ="https://img.shields.io/badge/Java-007396.svg?&style=flat-square&logo=OpenJDK&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"> <br><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=Mysql&logoColor=white"> <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb"> <img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white"></p>
   
 
-|[![Seohee's github stats](https://github-readme-stats.vercel.app/api?username=seohee-P&theme=vue&rank_icon=github&hide_border=True)](https://github.com/seohee-P) | [![Solved.ac프로필](http://mazassumnida.wtf/api/pastel/generate_badge?boj=almostdone)](https://solved.ac/almostdone)|
+|[![Seohee's github stats](https://github-readme-stats.vercel.app/api?username=seohee-P&theme=vue&rank_icon=github&hide_border=True)](https://github.com/seohee-P) | [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=almostdone)](https://solved.ac/almostdone)|
 |:---:|:---:|
 <!--지금은 사용안함.[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seohee-P)](https://github.com/seohee-P)-->
 
