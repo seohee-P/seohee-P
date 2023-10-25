@@ -31,7 +31,9 @@ Here are some ideas to get you started:
 |:---:|:---:|
 <!--지금은 사용안함.[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seohee-P)](https://github.com/seohee-P)-->
 
-<p align=center><a href="https://velog.io/@almostdone"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&&logoColor=white"/><a href="p03061180@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a></a></p>
+<p align=center><a href="https://velog.io/@almostdone"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&&logoColor=white"/> <a href="mailto:p03061180@gmail.com">
+        <img src="https://img.shields.io/badge/
+        Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> </a></p>
 
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:330867,100:30cfd0&section=footer)
