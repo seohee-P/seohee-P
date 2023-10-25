@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:30cfd0,100:330867&height=200&text=Welcome%20SeoHee's%20GitHub&fontColor=FFFFFF&fontSize=45&fontAlignY=40)
-![seohee-P's GitHub stats](https://github-readme-stats.vercel.app/api?username=seohee-P&theme=shadow_green&show_icons=true)
+![seohee-P's GitHub stats](https://github-readme-stats.vercel.app/api?username=seohee-P&theme=vue&show_icons=true)
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:330867,100:30cfd0&section=footer)
