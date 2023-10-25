@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:30cfd0,100:330867&height=200&text=Welcome%20SeoHee's%20GitHub&fontColor=FFFFFF&fontSize=45&fontAlignY=40)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=seohee-P&theme=vue&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:330867,100:30cfd0&section=footer)
