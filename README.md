@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <div align=center>
   <h3>👋 Hi! I'm SeoHee 👋</h3>
-  My major is <bold>Computer Engineering</bold>. I'm studying <bold>web backend</bold>.
+  My major is <b>Computer Engineering</b>. I'm studying <b>web backend</b>.
 </div>
 
 |[![Seohee's github stats](https://github-readme-stats.vercel.app/api?username=seohee-P&theme=vue&rank_icon=github&hide_border=True)](https://github.com/seohee-P) | [![Solved.ac프로필](http://mazassumnida.wtf/api/pastel/generate_badge?boj=almostdone)](https://solved.ac/almostdone)|
