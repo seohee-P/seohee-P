@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 <!--default stats
 ![Seohee's github stats](https://github-readme-stats.vercel.app/api?username=seohee-P&theme=vue&show_icons=true)
 -->
-|[![Seohee's github stats](https://github-readme-stats.vercel.app/api?username=seohee-P&theme=vue&rank_icon=github)](https://github.com/seohee-P)|[![Solved.ac프로필](http://mazassumnida.wtf/api/pastel/generate_badge?boj=almostdone)](https://solved.ac/almostdone)|
+|[![Seohee's github stats](https://github-readme-stats.vercel.app/api?username=seohee-P&theme=vue&rank_icon=github)](https://github.com/seohee-P)|
+[![Solved.ac프로필](http://mazassumnida.wtf/api/pastel/generate_badge?boj=almostdone)](https://solved.ac/almostdone)|
 |:---:|:---:|
 <!--지금은 사용안함.[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seohee-P)](https://github.com/seohee-P)-->
 
