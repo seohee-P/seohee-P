@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 <!--default stats
 ![Seohee's github stats](https://github-readme-stats.vercel.app/api?username=seohee-P&theme=vue&show_icons=true)
 -->
-![Seohee's github stats](https://github-readme-stats.vercel.app/api?username=seohee-P&theme=vue&rank_icon=github) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seohee-P)
+![Seohee's github stats](https://github-readme-stats.vercel.app/api?username=seohee-P&theme=vue&rank_icon=github) | ![![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seohee-P)](https://github.com/seohee-P/github-readme-stats)
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:330867,100:30cfd0&section=footer)
