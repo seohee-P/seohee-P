@@ -25,7 +25,7 @@ Here are some ideas to get you started:
  -->
  <h3 align=center>⚒️ Skills ⚒️</h3>
  <p align=center><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?logo=Django"></p>
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django"></p>
   
 
 |[![Seohee's github stats](https://github-readme-stats.vercel.app/api?username=seohee-P&theme=vue&rank_icon=github&hide_border=True)](https://github.com/seohee-P) | [![Solved.ac프로필](http://mazassumnida.wtf/api/pastel/generate_badge?boj=almostdone)](https://solved.ac/almostdone)|
