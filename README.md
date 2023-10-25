@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 |:---:|:---:|
 <!--지금은 사용안함.[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seohee-P)](https://github.com/seohee-P)-->
 
+<p><a href="https://velog.io/@almostdone" align=center><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&&logoColor=white"/></a></p>
 
-<a href="https://velog.io/@almostdone" align=center><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&&logoColor=white"/></a>
+
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:330867,100:30cfd0&section=footer)
