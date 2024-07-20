@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:30cfd0,100:330867&height=200&text=Welcome%20SeoHee's%20GitHub&fontColor=FFFFFF&fontSize=45&fontAlignY=40)
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:30cfd0,100:330867&height=150&text=Welcome%20SeoHee's%20GitHub&fontColor=FFFFFF&fontSize=35&fontAlignY=30)
  <!--
   <h3>👋 Hi! I'm SeoHee 👋</h3>
   My major is <b>Computer Engineering</b>. I'm studying <b>web backend</b>.
