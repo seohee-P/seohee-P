@@ -12,11 +12,6 @@ My major is Computer Engineering. I'm studying web backend.
       <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
     </td>
-    <td rowspan="4" align="center" valign="middle">
-      <a href="https://github.com/devxb/gitanimals">
-        <img src="https://render.gitanimals.org/lines/seohee-P?pet-id=692651156306003360" width="300" height="100"/>
-      </a>
-    </td>
   </tr>
   <tr>
     <td><b>백엔드</b></td>
