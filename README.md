@@ -1,36 +1,68 @@
-<!--### Hi there 👋-->
+# 🙋‍♀️ About Me
+```
+Hi! I'm SeoHee 👋
+My major is Computer Engineering. I'm studying web backend.
+```
+## 💻 Skills
+
+<table>
+  <tr>
+    <td><b>언어</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>백엔드</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>데이터베이스</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=Mysql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>도구</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=GitHub-Actions&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-web-services&logoColor=white"/>
+      <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
+    </td>
+  </tr>
+</table>
+
+## 🏆 BOJ Stats
+<a href="https://www.solve-nyang.com"><img src="https://api.solve-nyang.com/compose/imdone" width="600" height="300"/></a>
+
+## 🐾 GitHub Stats & GitAnimal
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+     <a href="https://github.com/seohee-P">
+        <img src="https://github-readme-stats.vercel.app/api?username=seohee-P&theme=vue&rank_icon=github&hide_border=True" width="450"/>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/devxb/gitanimals">
+        <img src="https://render.gitanimals.org/lines/seohee-P?pet-id=692651156306003360" width="450" height="120"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <!--
-**seohee-P/seohee-P** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+추가 정보나 숨겨진 콘텐츠를 여기에 넣을 수 있습니다
+예: 지금은 사용안함 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seohee-P)](https://github.com/seohee-P)
 -->
-
-
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:30cfd0,100:330867&height=150&text=Welcome%20SeoHee's%20GitHub&fontColor=FFFFFF&fontSize=35&fontAlignY=30)
- <!--
-  <h3>👋 Hi! I'm SeoHee 👋</h3>
-  My major is <b>Computer Engineering</b>. I'm studying <b>web backend</b>.
- -->
- <h3 align=center>⚒️ Language & Skills ⚒️</h3>
- <p align=center><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src ="https://img.shields.io/badge/Java-007396.svg?&style=flat-square&logo=OpenJDK&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"> <br><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=Mysql&logoColor=white"> <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb"> <img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white"></p>
-  
-
-|[![Seohee's github stats](https://github-readme-stats.vercel.app/api?username=seohee-P&theme=vue&rank_icon=github&hide_border=True)](https://github.com/seohee-P) | [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=almostdone)](https://solved.ac/almostdone)|
-|:---:|:---:|
-<!--지금은 사용안함.[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seohee-P)](https://github.com/seohee-P)-->
-
-<p align=center><a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseohee-P&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=true"/></a> <a href="https://velog.io/@almostdone"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&&logoColor=white"/></a> <a href="mailto:p03061180@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"></a></p>
-
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:330867,100:30cfd0&section=footer)
