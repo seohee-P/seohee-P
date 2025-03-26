@@ -43,7 +43,7 @@ My major is Computer Engineering. I'm studying web backend.
 </table>
 
 ## 🏆 BOJ Stats
-<a href="https://www.solve-nyang.com"><img src="https://api.solve-nyang.com/compose/imdone" width="600" height="300"/></a>
+<a href="https://www.solve-nyang.com"><img src="https://api.solve-nyang.com/compose/imdone" width="500" height="250"/></a>
 
 ## 🐾 GitHub Stats & GitAnimal
 
