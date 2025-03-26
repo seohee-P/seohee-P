@@ -14,7 +14,7 @@ My major is Computer Engineering. I'm studying web backend.
     </td>
   </tr>
   <tr>
-    <td><b>백엔드</b></td>
+    <td><b>프레임워크</b></td>
     <td>
       <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
       <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
@@ -53,7 +53,7 @@ My major is Computer Engineering. I'm studying web backend.
       </a>
     </td>
     <td align="center" width="50%">
-      <a href="https://www.solve-nyang.com"><img src="https://api.solve-nyang.com/compose/imdone" width="500" height="250"/></a>
+      <a href="https://www.solve-nyang.com"><img src="https://api.solve-nyang.com/compose/imdone" width="340" height="170"/></a>
     </td>
   </tr>
 </table>
