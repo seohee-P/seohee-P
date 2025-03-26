@@ -12,6 +12,11 @@ My major is Computer Engineering. I'm studying web backend.
       <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
     </td>
+    <td rowspan="4" align="center" valign="middle">
+      <a href="https://github.com/devxb/gitanimals">
+        <img src="https://render.gitanimals.org/lines/seohee-P?pet-id=692651156306003360" width="300" height="100"/>
+      </a>
+    </td>
   </tr>
   <tr>
     <td><b>백엔드</b></td>
@@ -42,10 +47,8 @@ My major is Computer Engineering. I'm studying web backend.
   </tr>
 </table>
 
-## 🏆 BOJ Stats
-<a href="https://www.solve-nyang.com"><img src="https://api.solve-nyang.com/compose/imdone" width="500" height="250"/></a>
 
-## 🐾 GitHub Stats & GitAnimal
+## 🏆 GitHub & BOJ Stats
 
 <table>
   <tr>
@@ -55,9 +58,7 @@ My major is Computer Engineering. I'm studying web backend.
       </a>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/devxb/gitanimals">
-        <img src="https://render.gitanimals.org/lines/seohee-P?pet-id=692651156306003360" width="450" height="120"/>
-      </a>
+      <a href="https://www.solve-nyang.com"><img src="https://api.solve-nyang.com/compose/imdone" width="500" height="250"/></a>
     </td>
   </tr>
 </table>
