@@ -43,7 +43,7 @@ My major is Computer Engineering. I'm studying web backend.
 </table>
 
 
-## 🏆 GitHub & BOJ Stats
+## 🏆 GitHub Stats
 
 <table>
   <tr>
@@ -53,7 +53,9 @@ My major is Computer Engineering. I'm studying web backend.
       </a>
     </td>
     <td align="center" width="50%">
-      <a href="https://www.solve-nyang.com"><img src="https://api.solve-nyang.com/compose/imdone" width="340" height="170"/></a>
+      <a href="https://github.com/devxb/gitanimals">
+      <img src="https://render.gitanimals.org/lines/seohee-P?pet-id=647699916619250034" width="200" height="120"/>
+    </a>
     </td>
   </tr>
 </table>
@@ -61,4 +63,5 @@ My major is Computer Engineering. I'm studying web backend.
 <!--
 추가 정보나 숨겨진 콘텐츠를 여기에 넣을 수 있습니다
 예: 지금은 사용안함 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seohee-P)](https://github.com/seohee-P)
+<a href="https://www.solve-nyang.com"><img src="https://api.solve-nyang.com/compose/imdone" width="340" height="170"/></a>
 -->
