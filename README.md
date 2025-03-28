@@ -5,7 +5,7 @@
 ![header](https://github.com/user-attachments/assets/e6fc9bd5-2f6e-4e23-ba7f-24328b76ce00)
 
 <a href="https://github.com/devxb/gitanimals">
-      <img src="https://render.gitanimals.org/lines/seohee-P?pet-id=647699916619250034" width="1000" height="200"/>
+      <img src="https://render.gitanimals.org/lines/seohee-P?pet-id=647699916619250034" width="1000" height="120"/>
 </a>
 
 
