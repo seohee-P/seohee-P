@@ -1,8 +1,44 @@
-# 🙋‍♀️ About Me
+
+
+
+
+![header](https://github.com/user-attachments/assets/e6fc9bd5-2f6e-4e23-ba7f-24328b76ce00)
+
+<a href="https://github.com/devxb/gitanimals">
+      <img src="https://render.gitanimals.org/lines/seohee-P?pet-id=647699916619250034" width="1000" height="120"/>
+</a>
+
+
+```java
+public class AboutMe {
+    private final String name = "SeoHee";
+    private final String major = "Computer Engineering";
+    private final String[] languages = {"Java", "Python"};
+    private final String[] techStack = {"Spring", "MySQL", "Redis", "AWS", "Docker", "GitHub Actions"};
+    
+    public String currentStudy() {
+        return "Web Backend Development";
+    }
+    
+    public void sayHello() {
+        System.out.println("Hello! Thank you for visiting :)");
+    }
+}
 ```
-Hi! I'm SeoHee 👋
-My major is Computer Engineering. I'm studying web backend.
+```diff
+# 📋 Projects & Interests
+
++ 🟢 ACTIVE:    실시간 채팅 서비스 개발 중
++ 🟢 ACTIVE:    알고리즘 학습(1일 1백준)
+
+- 🔴 COMPLETED: 뉴질랜드 호텔 직원 출퇴근 기록 앱(2023)
+- 🔴 COMPLETED: 학교 공식 축제 홈페이지(2023)
+
+! 🟡 PLANNED:   MSA 학습
 ```
+![footer](https://github.com/user-attachments/assets/52866905-e9ec-4df4-abe1-d19ab75bc91b)
+
+<!--
 ## 💻 Skills
 
 <table>
@@ -41,10 +77,16 @@ My major is Computer Engineering. I'm studying web backend.
     </td>
   </tr>
 </table>
+-->
 
 
+
+
+<!--
+추가 정보나 숨겨진 콘텐츠를 여기에 넣을 수 있습니다
+예: 지금은 사용안함 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seohee-P)](https://github.com/seohee-P)
+<a href="https://www.solve-nyang.com"><img src="https://api.solve-nyang.com/compose/imdone" width="340" height="170"/></a>
 ## 🏆 GitHub Stats
-
 <table>
   <tr>
     <td align="center" width="50%">
@@ -60,8 +102,3 @@ My major is Computer Engineering. I'm studying web backend.
   </tr>
 </table>
 
-<!--
-추가 정보나 숨겨진 콘텐츠를 여기에 넣을 수 있습니다
-예: 지금은 사용안함 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seohee-P)](https://github.com/seohee-P)
-<a href="https://www.solve-nyang.com"><img src="https://api.solve-nyang.com/compose/imdone" width="340" height="170"/></a>
--->
