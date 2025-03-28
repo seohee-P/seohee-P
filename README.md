@@ -5,7 +5,7 @@
 ![header](https://github.com/user-attachments/assets/e6fc9bd5-2f6e-4e23-ba7f-24328b76ce00)
 
 <a href="https://github.com/devxb/gitanimals">
-      <img src="https://render.gitanimals.org/lines/seohee-P?pet-id=647699916619250034" width="1000" height="120"/>
+      <img src="https://render.gitanimals.org/lines/seohee-P?pet-id=647699916619250034" width="1000" height="200"/>
 </a>
 
 
@@ -25,6 +25,7 @@ public class AboutMe {
     }
 }
 ```
+<!--
 ```diff
 # 📋 Projects & Interests
 
@@ -36,6 +37,7 @@ public class AboutMe {
 
 ! 🟡 PLANNED:   MSA 학습
 ```
+-->
 ![footer](https://github.com/user-attachments/assets/52866905-e9ec-4df4-abe1-d19ab75bc91b)
 
 <!--
