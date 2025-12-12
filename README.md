@@ -1,8 +1,8 @@
+<!--
+![header](https://github.com/user-attachments/assets/2bff1df8-15a6-4abe-a19a-f53a7cac4c7f)
+-->
 
-
-
-
-![header](https://github.com/user-attachments/assets/2bff1df8-15a6-4abe-a19a-f53a7cac4c7f) 
+![header](https://github.com/user-attachments/assets/2b896f47-c75f-4f04-97c9-7b4fb7b1bf0f)
 
 
 <!-- <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=seohee-P&utm_content=line">
@@ -37,6 +37,9 @@ public class AboutMe {
     }
 }
 ```
+
+![footer](https://github.com/user-attachments/assets/665f7997-5f5e-4917-a11a-01c6c81165be)
+
 <!--
 ```diff
 # 📋 Projects & Interests
@@ -49,8 +52,9 @@ public class AboutMe {
 
 ! 🟡 PLANNED:   MSA 학습
 ```
--->
+
 ![footer](https://github.com/user-attachments/assets/52866905-e9ec-4df4-abe1-d19ab75bc91b)
+-->
 
 <!--
 ## 💻 Skills
