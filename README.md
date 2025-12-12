@@ -11,15 +11,15 @@
     width="1000"
     height="120"/>
 </a> -->
-  
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=seohee-P&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/seohee-P?pet-id=748791838069195489"
-    width="1000"
-    height="120"
-  />
+
+<div align = "center">  
+<a href="https://github.com/seohee-P/gitanimals">
+    <img src="https://render.gitanimals.org/lines/seohee-P?pet-id=748791838069195489" width="40%" height="120"/>
+    <img src="https://render.gitanimals.org/lines/seohee-P?pet-id=787339027540966828" width="40%" height="120"/>
 </a>
+</div>
+
   
 
 ```java
